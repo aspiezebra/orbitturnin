@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+<<<<<<< HEAD
+    ""
+  ],
+=======
+    "",
+    "\\aaa",
+    "\\autism",
+    "\\autism\\eds",
+    "\\autism\\eds\\LC101",
+    "\\autism\\eds\\LC101\\lc101",
+    "\\autism\\eds\\LC101\\lc101\\HTML-me-Something"
+  ],
+  "SelectedNode": "\\autism\\eds\\LC101\\lc101\\HTML-me-Something\\style.css",
+>>>>>>> 2105f8ad17c4d85bb4fb9407199964bc6b64993f
+  "PreviewInSolutionExplorer": false
+}
